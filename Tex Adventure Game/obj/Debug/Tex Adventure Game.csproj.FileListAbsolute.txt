@@ -1,0 +1,6 @@
+C:\Users\jop30\source\repos\Tex Adventure Game\bin\Debug\Tex Adventure Game.exe.config
+C:\Users\jop30\source\repos\Tex Adventure Game\bin\Debug\Tex Adventure Game.exe
+C:\Users\jop30\source\repos\Tex Adventure Game\bin\Debug\Tex Adventure Game.pdb
+C:\Users\jop30\source\repos\Tex Adventure Game\obj\Debug\Tex Adventure Game.csprojAssemblyReference.cache
+C:\Users\jop30\source\repos\Tex Adventure Game\obj\Debug\Tex Adventure Game.exe
+C:\Users\jop30\source\repos\Tex Adventure Game\obj\Debug\Tex Adventure Game.pdb
