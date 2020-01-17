@@ -29,13 +29,13 @@ namespace Tex_Adventure_Game
         //strings
         public static string input;
         public static string item = null;
-        public static string mob = null;
+        
         //enemy stats for beastiary and combat
         public static readonly List<string> enemyName = new List<string> { "Wolf", "Sheno", "Acmer", "Pipheon", "Woedel", "Xenome" };
         public static readonly List<int> enemyHP = new List<int> { 10, 13, 18, 24, 40, 26 };
         public static readonly List<int> DefaultEnemyHP = new List<int> { 10, 13, 18, 24, 40, 26 };
         public static readonly List<int> enemyMaxDmg = new List<int> { 2, 4, 6, 10, 3, 15 };
-        public static readonly List<string> enemyDesc = new List<string> { "Good at biting", "Has a powerful axe", "Incredible warriors", "Flying beasts that hurt", "Strong defenses but weak attacks", "Able to hit the player with dangerous potions" };
+        public static readonly List<string> enemyDesc = new List<string> { "To be decided0", "To be decided1", "To be decided2", "To be decided3", "To be decided4", "To be decided05" };
 
         //Items available for inventory
         public static readonly List<string> items = new List<string> { "Egg", "Shovel", "Machete", "Staff", "Flower", "Bow" };
