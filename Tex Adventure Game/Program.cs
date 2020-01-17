@@ -549,6 +549,7 @@ namespace Tex_Adventure_Game
                 } while (correct == 0);
                 Console.WriteLine("I think you're ready! Be careful...");
                 Console.ReadKey();
+                //!!dont forget to add health regen!!//
                 Parallel.Invoke(() => ManaRegen(), () => Start());
 
 
