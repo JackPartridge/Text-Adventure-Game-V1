@@ -331,6 +331,7 @@ namespace Tex_Adventure_Game
                         Console.WriteLine("Magic : 2 Point");
                         Console.Write("Is this the race you wish to play? (yes/no)\n>> ");
                         input = Console.ReadLine().ToLower();
+                        //add in about magic and lore and stuff
                         if (input == "yes" || input == "y")
                         {
                             //race bonuses
@@ -545,7 +546,6 @@ namespace Tex_Adventure_Game
                         Console.Clear();
                         correct = 0;
                     }
-                    correct = 1;
                 } while (correct == 0);
                 Console.WriteLine("I think you're ready! Be careful...");
                 Console.ReadKey();
